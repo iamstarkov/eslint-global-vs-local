@@ -1,0 +1,26 @@
+{
+  "name": "eslint-global-vs-local",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamstarkov/eslint-global-vs-local.git"
+  },
+  "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamstarkov/eslint-global-vs-local/issues"
+  },
+  "homepage": "https://github.com/iamstarkov/eslint-global-vs-local#readme",
+  "devDependencies": {
+    "eslint": "^1.0.0",
+    "eslint-config-airbnb": "0.0.7",
+    "babel-eslint": "^4.0.5",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "^3.2.0"
+  }
+}
