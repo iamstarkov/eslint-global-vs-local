@@ -1,5 +1,7 @@
 # eslint-global-vs-local
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/eslint-global-vs-local.svg)](https://greenkeeper.io/)
+
 global eslint cannot see local packages. And it kinda wrong: other tools like mocha, karma, grunt and gulp, user local versions of itself if it exists.
 
 You can see the problem. You can run `eslint index.js` and `npm run eslint` in this repo. Obviously, run `npm install` at the start.
